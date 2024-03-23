@@ -1,0 +1,14 @@
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ListOfMagazines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ListOfMagazines.AssemblyInfoInputs.cache
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ListOfMagazines.AssemblyInfo.cs
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ListOfMagazines.csproj.CoreCompileInputs.cache
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\bin\Debug\net7.0\ListOfMagazines.exe
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\bin\Debug\net7.0\ListOfMagazines.deps.json
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\bin\Debug\net7.0\ListOfMagazines.runtimeconfig.json
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\bin\Debug\net7.0\ListOfMagazines.dll
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\bin\Debug\net7.0\ListOfMagazines.pdb
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ListOfMagazines.dll
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\refint\ListOfMagazines.dll
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ListOfMagazines.pdb
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ListOfMagazines.genruntimeconfig.cache
+C:\Users\dinez\source\repos\ListOfMagazines\ListOfMagazines\obj\Debug\net7.0\ref\ListOfMagazines.dll
