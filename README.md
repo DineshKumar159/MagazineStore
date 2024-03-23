@@ -1,6 +1,8 @@
-Magazine Store (List of Magazines)
-Purpose
+#Magazine Store (List of Magazines)
+
+##Purpose
 To identify all subscribers that are subscribed to atleast one magazine in each category.
+
 Prerequisites
 •	.NET Core SDK installed on your machine.
 Getting Started
